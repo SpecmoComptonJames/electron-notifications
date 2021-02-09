@@ -1,5 +1,5 @@
 ## Electron Notifications
-
+### Updated for electron v 11.2.2 Windows
 A node module for sending notifications in electron applications.
 
 ![screenshot](assets/screenshot.png)
